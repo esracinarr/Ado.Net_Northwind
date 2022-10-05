@@ -1,0 +1,11 @@
+C:\Users\ibrahim.kaya\source\repos\Adonet_Nortwind\Adonet_Nortwind\bin\Debug\Adonet_Nortwind.exe.config
+C:\Users\ibrahim.kaya\source\repos\Adonet_Nortwind\Adonet_Nortwind\bin\Debug\Adonet_Nortwind.exe
+C:\Users\ibrahim.kaya\source\repos\Adonet_Nortwind\Adonet_Nortwind\bin\Debug\Adonet_Nortwind.pdb
+C:\Users\ibrahim.kaya\source\repos\Adonet_Nortwind\Adonet_Nortwind\obj\Debug\Adonet_Nortwind.csprojAssemblyReference.cache
+C:\Users\ibrahim.kaya\source\repos\Adonet_Nortwind\Adonet_Nortwind\obj\Debug\Adonet_Nortwind.Form1.resources
+C:\Users\ibrahim.kaya\source\repos\Adonet_Nortwind\Adonet_Nortwind\obj\Debug\Adonet_Nortwind.Properties.Resources.resources
+C:\Users\ibrahim.kaya\source\repos\Adonet_Nortwind\Adonet_Nortwind\obj\Debug\Adonet_Nortwind.csproj.GenerateResource.cache
+C:\Users\ibrahim.kaya\source\repos\Adonet_Nortwind\Adonet_Nortwind\obj\Debug\Adonet_Nortwind.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.kaya\source\repos\Adonet_Nortwind\Adonet_Nortwind\obj\Debug\Adonet_Nortwind.exe
+C:\Users\ibrahim.kaya\source\repos\Adonet_Nortwind\Adonet_Nortwind\obj\Debug\Adonet_Nortwind.pdb
+C:\Users\ibrahim.kaya\source\repos\Adonet_Nortwind\Adonet_Nortwind\obj\Debug\Adonet_Nortwind.FrmLogin.resources
